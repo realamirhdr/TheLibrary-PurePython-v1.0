@@ -1,4 +1,4 @@
-
+from Models.Book import Book
 
 class BookRepository:
     books = []

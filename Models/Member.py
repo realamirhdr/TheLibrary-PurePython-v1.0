@@ -1,4 +1,4 @@
-from User import User
+from Models.User import User
 
 
 class Member(User):
